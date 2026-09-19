@@ -161,5 +161,7 @@ npm.cmd run build
 - **Hackathon:** iQOO Hackathon 2026
 - **Track:** HealthTech
 - **Project Name:** CareBuddy AI
+- **Tagline:** *Understand your care. Remember your routine.*
+- **Live Production URL:** [https://carebuddy-ten.vercel.app/](https://carebuddy-ten.vercel.app/)
 - **Repository:** [https://github.com/santhoshvallu2-dot/CARE-BUDDY](https://github.com/santhoshvallu2-dot/CARE-BUDDY)
 
